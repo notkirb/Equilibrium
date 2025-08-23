@@ -11,7 +11,7 @@ What Discord says the default output device is and what Windows says the default
 
 ## Installation
 
-An automated installer is planned, but is not yet ready. To install SyncCommAudio, you need to clone the repository, install the requirements, and run the installation command. This code snipped assumes you installed Python using [Chocolatey](https://community.chocolatey.org/packages/python). If you have not installed Python through Chocolatey, install it from [https://www.python.org/](https://www.python.org/) or from Chocolatey by running `choco install python --pre`.
+An automated installer is planned, but is not yet ready. To install SyncCommAudio, you need to clone the repository, install the requirements, and run the installation command. This code snippet assumes you installed Python using [Chocolatey](https://community.chocolatey.org/packages/python). If you have not installed Python through Chocolatey, install it from [https://www.python.org/](https://www.python.org/) or from Chocolatey by running `choco install python --pre`, then change the code snippet accordingly.
 ```
 git clone https://github.com/notkirb/SyncCommAudio/
 cd SyncCommAudio
